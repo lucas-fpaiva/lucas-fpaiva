@@ -2,6 +2,15 @@
 
 <h2 align="center">Welcome to my profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="36" height="30"/> </h2>
 
+
+<a href='https://br.linkedin.com/in/lucas-ferreira-paiva-1a969b190'><img align='center' alt="LinkedIn" src="https://github.com/lucas-fpaiva/lucas-fpaiva/blob/main/linkedin.svg" height='23px'/>&nbsp;</a> 
+<a href='https://scholar.google.com/citations?user=cI4igzwAAAAJ&hl=pt-BR'><img align='center' alt="Google Scholar Profile" src="https://github.com/lucas-fpaiva/lucas-fpaiva/blob/main/scholar.svg" height='23px'/>&nbsp;</a> 
+<a href='mailto:paiva.1996.lucas@gmail.com'><img align='center' alt="Gmail" src="https://github.com/lucas-fpaiva/lucas-fpaiva/blob/main/gmail.svg" height='23px'/>&nbsp;</a> 
+<a href='https://www.youtube.com/channel/UCl4IuyZquzKsJUiMkTS3w9g'><img align='center' alt="Youtube Channel" src="https://github.com/lucas-fpaiva/lucas-fpaiva/blob/main/youtube.svg" height='23px'/>&nbsp;</a> 
+<a href='http://lattes.cnpq.br/2288304608800735'><img align='center' alt="Lattes CV" src="https://github.com/lucas-fpaiva/lucas-fpaiva/blob/main/lattes.svg" height='23px'/>&nbsp;</a> 
+<a href='https://orcid.org/0000-0003-4924-4666'><img align='center' alt="Orcid" src="https://github.com/lucas-fpaiva/lucas-fpaiva/blob/main/orcid.svg" height='23px'/>&nbsp;</a>
+
+
 <div>
 <p><em>
 <li>📱 I’m currently working on: Human-machine interface - Motion estimation</li>
