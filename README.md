@@ -13,10 +13,9 @@
 
 <div>
 <p><em>
-<li>📱 I’m currently working on: Human-machine interface - Motion estimation</li>
+<li>📱 I’m currently working on: Human-machine interface - Motion estimation - MIR</li>
 <li>🌱 I’m currently learning: Computer Vision - Advanced Statistics</li>
-<li>👯 I’m looking to collaborate on new projects related to Deep learning.</li>
-<li>📊 Ask me about:  Python - ML algorithms</li>
+<li>📊 Ask me about:  Python - ML algorithms - Forró</li>
 <li>😄 Pronouns: He/Him</li>
 </em></p>
 </div>
